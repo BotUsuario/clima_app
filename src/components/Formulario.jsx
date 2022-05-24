@@ -44,7 +44,7 @@ const Formulario = () => {
                     onChange={datosBusqueda}
                     value={pais}
                 >
-                    <option value=''>--Seleccione un Pais--</option>
+                    <option value=''>--Selecciona un Pais--</option>
                     <option value='US'>Estados Unidos</option>
                     <option value='MX'>México</option>
                     <option value='AR'>Argentina</option>
